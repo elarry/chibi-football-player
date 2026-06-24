@@ -1,6 +1,8 @@
 # Chibi Football Player
 
-A chibi-style 3D football player character created in Blender that is rigged, animated, and exported to `.fbx` for use in Unity.
+A chibi-style 3D character created in Blender that is rigged, animated, and exported to `.fbx` for use in Unity.
+
+![Chibi Character](docs/chibi.gif)
 
 ## Contents
 
